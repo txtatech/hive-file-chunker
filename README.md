@@ -3,7 +3,7 @@ A method to gzip, base64 encode and chunk local files into JSON format to fit in
 
 To encode local files into JSON format place them in the inputs folder.
 
-The 'Build_GPT_Buddy.zip' is included in the 'inputs' folder as an example.
+The 'Build_GPT_Buddy.zip' from [here](https://github.com/txtatech/Build_GPT_Buddy) is included in the 'inputs' folder as an example.
 
 The current chunk size (for the character count inside the JSON files) is set to 64536.
 
